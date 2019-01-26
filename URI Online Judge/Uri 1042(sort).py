@@ -1,0 +1,13 @@
+x = input().split()
+a = int(x[0])
+b = int(x[1])
+c = int(x[2])
+lista = [a,b,c]
+lista.sort()
+print (lista[0])
+print (lista[1])
+print (lista[2])
+print ("")
+print (a)
+print (b)
+print (c)

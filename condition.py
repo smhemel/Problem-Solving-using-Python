@@ -1,0 +1,5 @@
+h1 = input()
+m1 = input()
+h2 = input()
+m2 = input()
+if print (sum)
